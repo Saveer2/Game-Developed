@@ -5,11 +5,6 @@ All characters and villains in the game are **original creations**, designed ent
 
 ---
 
-## 📸 Screenshot
-![Loop Escape Gameplay](<img width="994" height="530" alt="game" src="https://github.com/user-attachments/assets/3ffdb529-1c0f-4fe2-8aaf-10055565d0b2" />)
-
----
-
 ## 📌 Features
 - **Original Art** – All characters, villains, and game assets are custom-made. <br>
 - **Custom Graphics** – Stored in the `graphics` folder. <br>
