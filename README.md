@@ -6,7 +6,7 @@ All characters and villains in the game are **original creations**, designed ent
 ---
 
 ## 📸 Screenshot
-![Loop Escape Gameplay](Screenshot%202025-08-10%20194341.png)
+![Loop Escape Gameplay](<img width="994" height="530" alt="game" src="https://github.com/user-attachments/assets/3ffdb529-1c0f-4fe2-8aaf-10055565d0b2" />)
 
 ---
 
@@ -34,6 +34,6 @@ Loop_Escape/
 1. **Clone this repository**
    ```bash
    git clone https://github.com/Game-Developed/Loop_Escape.git
-   cd Loop_Escape <br>
+   cd Loop_Escape 
 2. pip install pygame <br>
 3. python game.py <br>
