@@ -1,4 +1,6 @@
+---
 **  Loop Escape  
+---
 
 Loop Escape is a 2D Python game built using **Pygame**, where the player must navigate through obstacles, avoid traps, and escape the endless loop. <br> 
 All characters and villains in the game are **original creations**, designed entirely from scratch. <br>
