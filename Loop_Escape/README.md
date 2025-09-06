@@ -15,8 +15,8 @@ All characters and villains in the game are **original creations**, designed ent
 ---
 
 **  Folder Structure
-Loop_Escape/
-│
+Loop_Escape/<br>
+│<br>
 ├── audio/ # Background music and sound effects <br>
 ├── font/ # Custom fonts for UI <br>
 ├── graphics/ # Game sprites and images <br>
