@@ -1,11 +1,11 @@
-# 🎮 Loop Escape
+#  Loop Escape  #
 
 Loop Escape is a 2D Python game built using **Pygame**, where the player must navigate through obstacles, avoid traps, and escape the endless loop. <br> 
 All characters and villains in the game are **original creations**, designed entirely from scratch. <br>
 
 ---
 
-## 📌 Features
+##  Features
 - **Original Art** – All characters, villains, and game assets are custom-made. <br>
 - **Custom Graphics** – Stored in the `graphics` folder. <br>
 - **Background Music & Sound Effects** – Located in the `audio` folder for an immersive experience. <br>
@@ -14,7 +14,7 @@ All characters and villains in the game are **original creations**, designed ent
 
 ---
 
-## 🗂 Folder Structure
+##  Folder Structure
 Loop_Escape/
 │
 ├── audio/ # Background music and sound effects <br>
@@ -25,7 +25,7 @@ Loop_Escape/
 
 ---
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 1. **Clone this repository**
    ```bash
    git clone https://github.com/Game-Developed/Loop_Escape.git
