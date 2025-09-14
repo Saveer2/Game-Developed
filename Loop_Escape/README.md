@@ -15,6 +15,10 @@ All characters and villains in the game are **original creations**, designed ent
 
 ---
 
+** IMAGES : 
+![Logo](./graphics/dragom.png)
+
+
 **  Folder Structure
 Loop_Escape/<br>
 │<br>
