@@ -15,8 +15,8 @@ All characters and villains in the game are **original creations**, designed ent
 
 ---
 
-** IMAGES : 
-![Logo](./graphics/dragon)
+** IMAGES : <br>
+![Logo](./graphics/dragon/dragon1.png)
 
 
 **  Folder Structure
